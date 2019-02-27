@@ -11,3 +11,94 @@
    11  PATH
    12  history
    13  history > hisory20190220.txt
+
+
+VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  pwd
+    5  whoami
+    6  who
+    7  uname
+    8  uname -a
+    9  uname
+   10  uname -a
+   11  echo $0
+   12  pwd
+   13  sh
+   14  man echo
+   15  echo "Tekstiņš"
+   16  ls 
+   17  ls -l
+   18  ls -la
+   19  ls
+   20  echo "Tekstiņš" > aaa.txt
+   21  ls -l
+   22  cat aaa.txt 
+   23  echo "Cits teksts" > aaa.txt
+   24  ls -l
+   25  cat aaa.txt 
+   26  Cits teksts
+   27  echo "Pavisām cits teksts" >> aaa.txt
+   28  ls -l
+   29  cat aaa.txt 
+   30  ls -l
+   31  sh
+   32  ls -l
+   33  mkdir TEST
+   34  ls -l
+   35  cd TEST/
+   36  ls -la
+   37  cd .
+   38  pwd
+   39  cd ..
+   40  pwd
+   41  ls -la
+   42  pwd
+   43  cd .
+   44  pwd
+   45  cd ..
+   46  ls -la
+   47  cd .
+   48  cd ..
+   49  pwd
+   50  ls -la
+   51  cd .
+   52  pwd
+   53  cd ..
+   54  pwd
+   55  cd
+   56  pwd
+   57  nano mans_skripts.sh
+   58  ls -l
+   59  mans_skripts.sh
+   60  ./mans_skripts.sh
+   61  ~/mans_skripts
+   62  ~/mans_skripts.sh
+   63  /home/user/mans_skripts.sh
+   64  ls
+   65  echo $PATH
+   66  mans_skripts.sh
+   67  pwd
+   68  PATH=$PATH:/home/user
+   69  echo $PATH
+   70  mans_skripts.sh
+   71  ls -l
+   72  chmod 750 mans_skripts.sh 
+   73  ls -l
+   74  ls 
+   75  mans_skripts.sh
+   76  ls -l
+   77  rm -r mape1
+   78  nano mans_skripts.sh 
+   79  mans_skripts.sh
+   80  pwd
+   81  ls /bin/bash
+   82  ls -l /bin/bash
+   83  ls -l /bin/bash/
+   84  ls -l /bin/
+   85  pwd
+   86  cat /bin/ls
+   87  ls -l
+   88  history
+   89  history > history_20190220.txt
